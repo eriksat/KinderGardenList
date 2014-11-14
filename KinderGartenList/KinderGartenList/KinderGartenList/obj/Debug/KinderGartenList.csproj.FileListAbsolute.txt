@@ -1,0 +1,12 @@
+c:\users\adik\documents\visual studio 2013\Projects\KinderGartenList\KinderGartenList\bin\Debug\KinderGartenList.exe.config
+c:\users\adik\documents\visual studio 2013\Projects\KinderGartenList\KinderGartenList\bin\Debug\KinderGartenList.exe
+c:\users\adik\documents\visual studio 2013\Projects\KinderGartenList\KinderGartenList\bin\Debug\KinderGartenList.pdb
+c:\users\adik\documents\visual studio 2013\Projects\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.csprojResolveAssemblyReference.cache
+c:\users\adik\documents\visual studio 2013\Projects\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.Form1.resources
+c:\users\adik\documents\visual studio 2013\Projects\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.Properties.Resources.resources
+c:\users\adik\documents\visual studio 2013\Projects\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.csproj.GenerateResource.Cache
+c:\users\adik\documents\visual studio 2013\Projects\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.exe
+c:\users\adik\documents\visual studio 2013\Projects\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.pdb
+C:\Users\AdiK\documents\visual studio 2013\Projects\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.AddValue.AddValueN.resources
+C:\Users\AdiK\documents\visual studio 2013\Projects\KinderGartenList\KinderGartenList\bin\Debug\inform.mdf
+C:\Users\AdiK\documents\visual studio 2013\Projects\KinderGartenList\KinderGartenList\bin\Debug\inform_log.ldf
