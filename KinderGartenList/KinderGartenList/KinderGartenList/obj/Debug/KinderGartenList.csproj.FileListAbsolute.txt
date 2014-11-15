@@ -10,3 +10,15 @@ c:\users\adik\documents\visual studio 2013\Projects\KinderGartenList\KinderGarte
 C:\Users\AdiK\documents\visual studio 2013\Projects\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.AddValue.AddValueN.resources
 C:\Users\AdiK\documents\visual studio 2013\Projects\KinderGartenList\KinderGartenList\bin\Debug\inform.mdf
 C:\Users\AdiK\documents\visual studio 2013\Projects\KinderGartenList\KinderGartenList\bin\Debug\inform_log.ldf
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\KinderGartenList.exe.config
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.exe
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.pdb
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\inform.mdf
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\inform_log.ldf
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\KinderGartenList.exe
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\bin\Debug\KinderGartenList.pdb
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.csprojResolveAssemblyReference.cache
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.AddValue.AddValueN.resources
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.Form1.resources
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.Properties.Resources.resources
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.csproj.GenerateResource.Cache
