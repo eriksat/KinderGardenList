@@ -13,12 +13,11 @@ namespace KinderGartenList
     public partial class LogIn : Form
     {
         private SqlConnection con;
-        private SqlQuery1 ob;
-        private SqlDataAdapter cmd;
+                private SqlDataAdapter cmd;
         private DataTable dt;
+       
         private string userLogin;
-        private string userPassword;
-        private string query;
+                private string query;
         public LogIn()
         {
             InitializeComponent();
@@ -35,15 +34,9 @@ namespace KinderGartenList
 
         }
 
-        private void SetUser()
-        {
-            userLogin= comboBox1.Text;
-            userPassword = userLogin + "Password";
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
-            SetUser();
+     
             if (comboBox1.Text == "" && textBox2.Text=="") {
                 errorProvider1.SetError(comboBox1, "Please Choose Users!");
                 errorProvider1.SetError(textBox2,"Please Fill Password!");
@@ -61,15 +54,21 @@ namespace KinderGartenList
                
                 try
                 {
-                    query = "Select * from Users Where " + userLogin + "='" + comboBox1.Text + "' and " + userPassword +
-                            "='" + textBox2.Text + "'";
-                    if(con==null)
+
+              
+
+                    
+                    if(con.State!=ConnectionState.Open)
                     con.Open();
-                    cmd = new SqlDataAdapter(query,con);
-                    dt  = new DataTable();
+                  
+                    query = "select count(*) from Admin where USERNAME = '" + comboBox1.Text + "' and PASSWORD = '" + textBox2.Text + "' ";
+                    MessageBox.Show(query);
+                    cmd = new SqlDataAdapter(query, con);
+                    dt = new DataTable();
                     cmd.Fill(dt);
-                    if (dt.Rows[0][0].ToString() == "1")
+                    if (dt.Rows[0][0].ToString() =="1")
                     {
+                        userLogin = comboBox1.Text;
                      con.Close();
                         if (userLogin == "Admin")
                         {

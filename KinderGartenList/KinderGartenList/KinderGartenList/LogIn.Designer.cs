@@ -120,7 +120,7 @@
             this.comboBox1.Location = new System.Drawing.Point(393, 50);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(209, 33);
-            this.comboBox1.TabIndex = 4;
+            this.comboBox1.TabIndex = 0;
             this.comboBox1.TextChanged += new System.EventHandler(this.comboBox1_TextChanged);
             // 
             // errorProvider1
