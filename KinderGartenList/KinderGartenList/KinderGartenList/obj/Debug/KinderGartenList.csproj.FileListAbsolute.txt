@@ -22,3 +22,4 @@ D:\DOCUMENTS\project C#\MyfirstProject GitHub\KinderGardenList\KinderGartenList\
 D:\DOCUMENTS\project C#\MyfirstProject GitHub\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.Form1.resources
 D:\DOCUMENTS\project C#\MyfirstProject GitHub\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.Properties.Resources.resources
 D:\DOCUMENTS\project C#\MyfirstProject GitHub\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.csproj.GenerateResource.Cache
+D:\DOCUMENTS\project C#\MyfirstProject GitHub\KinderGardenList\KinderGartenList\KinderGartenList\KinderGartenList\obj\Debug\KinderGartenList.LogIn.resources
